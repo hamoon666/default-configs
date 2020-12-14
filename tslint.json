@@ -1,4 +1,6 @@
-{
+hello world
+|
+hamoon666 readme.home{
   "extends": [
     "tslint:recommended"
   ],
